@@ -1,2 +1,2 @@
 # ELT
-The code will be updated after being received.
+The code will be uploaded if the paper is accepted.
